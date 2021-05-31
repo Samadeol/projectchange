@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 30-05-2021 21:21:27 : Starting D:/warzone/2020.3.8f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2258.6281ms
+moved types parse time: 82ms
+candidates parse time : 1ms
+C# parse time         : 969ms
+candidates check time : 46ms
+console write time    : 1ms
+
